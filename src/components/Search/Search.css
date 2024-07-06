@@ -1,0 +1,11 @@
+.search-wrapper{
+    display: flex;
+    justify-content: center;
+}
+#search-ipnut{
+    padding: 1.5rem;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10%;
+
+}
